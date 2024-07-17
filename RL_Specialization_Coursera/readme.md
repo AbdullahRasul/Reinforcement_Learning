@@ -1,1 +1,1 @@
-[Reinforcement Learning Specialization.pdf](https://github.com/user-attachments/files/16260842/Reinforcement.Learning.Specialization.pdf)
+![image](https://github.com/user-attachments/assets/8084713a-a7d1-412d-965d-2870386cb4c1)
